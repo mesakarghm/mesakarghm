@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mesakarghm
+- 👋 Hi, I’m Sakar Ghimire
 - 👀 I’m interested in Python and Machine Learning
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on any Computer Vision related tasks.
+- 💞️ I’m looking to collaborate on any Computer Vision related tasks
 - 📫 How to reach me : mesakarghm@gmail.com
 
 <!---
